@@ -13,5 +13,7 @@ Name, Space Group, Band Gap (exp), Phonon Frequency (max), Dielectric Breakdown 
 ---------------
 API 
 ---------------
-1.Flask framework and fully restful. 
+- Python-Flask framework 
+- Fully RESTful
+- Currently no user authentication implemented
 
